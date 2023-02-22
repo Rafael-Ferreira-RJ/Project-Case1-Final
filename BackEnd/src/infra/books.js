@@ -10,8 +10,8 @@ const BOOKS_SCHEMA = `
 CREATE TABLE IF NOT EXISTS "LIVROS" (
     "id" INTEGER PRIMARY KEY AUTOINCREMENT,
     "titulo" varchar(90),
-    "total_de_paginas" INTEGER,
-    "paginas_lidas" INTEGER
+    "total_de_paginas" number,
+    "paginas_lidas" number
 );`;
 
 // // inserção dos registros na tabela books.
