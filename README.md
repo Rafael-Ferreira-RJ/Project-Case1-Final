@@ -8,7 +8,7 @@
 
 • O tema do projeto livre. Pode pensar que tipo de cadastro seria interessante e se tornaria um produto legal: Que tal uma lista de livros que foram lidos? Ou então uma lista de filmes para assistir este ano? Ou quem sabe quais são os games que o usuário já jogou e terminou … são muitas possibilidades de listas!
 
-• A escolha foi uma lista de livros, que traz consigo a quantidade total de páginas de cada livro a um campo de controe de quantas páginas já foram lidas.
+• A escolha foi uma lista de livros, que traz consigo a coluna de quantidade total de páginas de livro inserido e possui uma coluna de controle de quantas páginas já foram lidas pelo usuário, conforme o mesmo for atualizando.
 
 <h2>O QUE É NECESSÁRIO ENTREGAR?</h2>
 
@@ -35,4 +35,13 @@
 • npm install sqlite3 (instalação de dependência)<br>
 • npm start (excutar o projeto)<br>
 • npm run dev (executar o projeto como desenvolvedor).<br>
+
+<h2>RESULTADO FRONT-END</h2>
+
+![image](https://user-images.githubusercontent.com/113391188/220747113-44f1ad87-4fdb-4afd-8af2-7d1c510333c5.png)
+
+<h2>RESULTADO BACK-END</h2>
+
+![image](https://user-images.githubusercontent.com/113391188/220747344-d047e3e6-8a7d-471e-b310-744f0c8ce69d.png)
+
 
